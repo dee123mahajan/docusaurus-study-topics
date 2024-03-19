@@ -8,7 +8,7 @@ Callbacks in JavaScript are functions passed as arguments to other functions to 
 
 Here's a basic example to illustrate how callbacks work:
 
-![alt text](image-2.png)
+![alt text](../../static/img/image-2.png)
 
 In this example:
 
