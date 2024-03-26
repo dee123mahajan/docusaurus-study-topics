@@ -22,7 +22,7 @@ function Feature({ Svg, title, redirect }) {
     <div className={clsx('col col--6')}>
       <a href={redirect}>
 
-        <div className="text--center">
+        <div className="text--center padding-horiz--md">
           <Svg className={styles.featureSvg} role="img" />
         </div>
         <div className="text--center padding-horiz--md">
