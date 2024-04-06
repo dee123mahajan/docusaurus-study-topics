@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkStudy_React_js=self.webpackChunkStudy_React_js||[]).push([[631],{4293:s=>{s.exports=JSON.parse('{"title":"Javascript","slug":"/category/javascript","permalink":"/docs/category/javascript","navigation":{"next":{"title":"Closures","permalink":"/docs/Javascript/Closures"}}}')}}]);

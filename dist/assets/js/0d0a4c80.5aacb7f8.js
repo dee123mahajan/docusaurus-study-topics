@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkStudy_React_js=self.webpackChunkStudy_React_js||[]).push([[325],{4562:t=>{t.exports=JSON.parse('{"title":"React","slug":"/category/react","permalink":"/docs/category/react","navigation":{"previous":{"title":"Let var const","permalink":"/docs/Javascript/letvarconst"},"next":{"title":"React Hooks","permalink":"/docs/react/Hooks"}}}')}}]);
